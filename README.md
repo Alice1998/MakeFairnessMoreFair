@@ -2,7 +2,7 @@
 
 This is the dataset (Kwai_Fair) for the paper:
 
-*Jiayin Wang, Weizhi Ma, Jiayu Lu, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, and Shaoping Ma, 2022. Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-distribution. In KDD'22.*
+*Jiayin Wang, Weizhi Ma, Jiayu Li, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, and Shaoping Ma, 2022. Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-distribution. In KDD'22.*
 
 Currently under constructions.
 
