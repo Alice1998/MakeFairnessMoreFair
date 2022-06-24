@@ -1,4 +1,4 @@
-# UtilityRevised-FairRec
+# Make Fairness More Fair
 
 This is the dataset (Kwai_Fair) for the paper:
 
