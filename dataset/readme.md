@@ -10,7 +10,7 @@ To the best of our knowledge, this is the largest real-world dataset containing 
 
 ## Download
 
-The dataset can be downloaded from [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/eb0fc2ebab8d42189f3b/) (uploading).
+The dataset can be downloaded from [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/eb0fc2ebab8d42189f3b/).
 
 
 
